@@ -1,0 +1,12 @@
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\bin\x64\Debug\SpeechToTextFromWavFilePOC.exe.config
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\bin\x64\Debug\SpeechToTextFromWavFilePOC.exe
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\bin\x64\Debug\SpeechToTextFromWavFilePOC.pdb
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\obj\x64\Debug\SpeechToTextFromWavFilePOC.csprojAssemblyReference.cache
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\obj\x64\Debug\SpeechToTextFromWavFilePOC.csproj.CoreCompileInputs.cache
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\obj\x64\Debug\SpeechToTextFromWavFilePOC.csproj.CopyComplete
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\obj\x64\Debug\SpeechToTextFromWavFilePOC.exe
+C:\Repo\Customers\COX\SpeechToTextFromWavFilePOC\SpeechToTextFromWavFilePOC\obj\x64\Debug\SpeechToTextFromWavFilePOC.pdb
